@@ -1,4 +1,4 @@
-FROM sixbysix/node
+FROM sixbysix/docker-node
 
 RUN npm install gulp -g
 
